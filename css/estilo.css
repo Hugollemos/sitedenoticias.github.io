@@ -60,7 +60,7 @@ ul {
 }
 
 #topo ul .primeiro a {
-    background: none
+    background: none;
 }
 
 #topo ul a:hover {
@@ -173,7 +173,7 @@ input.submit {
 
 /*Formatando imagens*/
 img {
-    border: 2px solid #dfdfdf
+    border: 2px solid #dfdfdf;
 }
 
 img.imagem-principal {
